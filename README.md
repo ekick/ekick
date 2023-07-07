@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekick
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, React, and React Native
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ...wait
 
